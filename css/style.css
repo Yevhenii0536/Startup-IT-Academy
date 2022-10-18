@@ -1,3 +1,8 @@
+body {
+  background-color: #000000;
+  color: white;
+}
+
 a {
   color: rgba(0, 0, 0, 0.861);
 }
@@ -24,8 +29,17 @@ caption {
   margin: 10px 0;
 }
 
-.Home-Work-3 form, .select {
+.Home-Work-3 form,
+.select {
   margin: 10px 0;
   text-align: center;
 }
 
+.Home-Work-4 > picture {
+  margin: 15px;
+  padding: 15px;
+}
+
+.Home-Work-4 {
+  text-align: center;
+}
